@@ -38,3 +38,6 @@ pip install -r requirements.txt
 
 
 python main.py
+
+
+Наш Бот: https://t.me/PulsDobrabot
