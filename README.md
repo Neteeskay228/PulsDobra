@@ -18,6 +18,16 @@ npm install vite --save-dev
 
 pip install -r requirements.txt
 
+pip install sqlalchemy
+
+pip install passlib
+
+pip install jwt
+
+pip install repotlab
+
+pip install svglib
+
 pip install "fastapi[standart]"
 
 python main.py
