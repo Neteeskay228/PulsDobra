@@ -41,3 +41,5 @@ python main.py
 
 
 Наш Бот: https://t.me/PulsDobrabot
+## Документация Swagger
+http://localhost:8000/docs
